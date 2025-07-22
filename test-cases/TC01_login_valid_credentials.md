@@ -33,7 +33,7 @@ Verify that a user can successfully log in with valid credentials.
 - Password: `admin123`
 
 ## 📌 Status:
-- Pass ✅ / Fail ❌ _(update after testing)_
+- Pass ✅ 
 
 ## 📅 Author:
 Yeanny Pena
