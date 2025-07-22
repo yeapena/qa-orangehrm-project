@@ -38,7 +38,8 @@ Verify that the system prevents access when invalid credentials are used.
 ---
 
 ## 📌 Status:
-- Pass ✅ / Fail ❌ _(update after testing)_
+- Pass ✅ 
+<img width="549" height="255" alt="image" src="https://github.com/user-attachments/assets/c7dcc5f1-719a-428a-8aca-84fa66e96478" />
 
 ---
 
